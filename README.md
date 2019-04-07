@@ -1,5 +1,5 @@
 # JATMON
-JATMON of All Trades an Master of None
+JATMON of All Trades and Master of None
 ---
 JATMON is a series of cpp head files that contain all sorts of complex functions.
 
