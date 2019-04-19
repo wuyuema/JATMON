@@ -13,6 +13,6 @@ Roadmap
 □ folder operation  
 □ file system basis  
 □ file writing in  
-□ file data analyse  
-□ math base  
-□ algorithm base
+□ file data analysation  
+□ math basis  
+□ algorithm basis
